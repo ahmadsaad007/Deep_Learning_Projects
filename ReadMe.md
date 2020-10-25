@@ -1,5 +1,5 @@
 ## Eye Disease Classification using Fundus Images
-The project is currently in progress
+
 
 The project involves training a multilabel image classifier that predicts eye diseases with a high accuracy.
 
